@@ -8,7 +8,7 @@ Searching with "/_all/_search?q=" and keyword does not provide any interesting i
 
 "/nametable/_search?pretty=true&size=25" download of a part of the db
 
-Download from shodan.io the list of ip's and ports and put in the file servers.txt. 
+Download from shodan.io the list of ip's and ports and put in the file Servers.txt. 
 
 Have fun
 

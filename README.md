@@ -12,3 +12,5 @@ Download from shodan.io the list of ip's and ports and put in the file servers.t
 
 Have fun
 
+For information write to blackholetechnlogies@protonmail.com
+
